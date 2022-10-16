@@ -3,7 +3,7 @@
   <img src="https://media.giphy.com/media/l1J9RvTMj524KBkac/giphy.gif">
 </p>
 <h2> 📦 Installation </h2>
-<p>  </p>
+<p> Before the installation this project, you should be sure that you install PostgreSQL. In addition to this files, install a requirements.txt. First of all, inside config.py input <b> YOUR DATABASE POSTGRESQL PASSWORD & HOST & etc.  </b>. Second, inside <code>command prompt</code> print <b> python main.py </b> ( make sure you inside project folder </b>. Unarchive the file __pycache__.zip to deploy it.</p>
 <h2> 💡 Main target </h2>
 <p> <b>Postgresql</b> is a database, we should render this & return it. However, it's not at all, we should add feature which can sort objects in the result. Inside derivation we put JSON format file. </p>
 <h2> 📩 Developing </h2>
